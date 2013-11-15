@@ -54,13 +54,8 @@ int main() {
 					break;
 			case 2:
 					break;
-			case 3:	{
-					while(scanf("%s", Nama) == 1)
-					{
-						printf("%s\n", Nama);
-					}
+			case 3:	
 					break;
-					}
 			case 4:
 					break;
 			case 5:
